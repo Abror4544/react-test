@@ -1,0 +1,12 @@
+.main {
+    min-height: 100vh;
+    background: linear-gradient(0deg, #1e183c 62.3%, #05060b 93.31%);
+    padding: 63px 0 104px;
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .main {
+        padding: 50px 0;
+    }
+}
