@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.1331642f.chunk.css",
+    "main.js": "/react-test/static/js/main.9e2e3c85.chunk.js",
+    "main.js.map": "/react-test/static/js/main.9e2e3c85.chunk.js.map",
+    "runtime-main.js": "/react-test/static/js/runtime-main.47bbafa5.js",
+    "runtime-main.js.map": "/react-test/static/js/runtime-main.47bbafa5.js.map",
+    "static/js/2.530ed366.chunk.js": "/react-test/static/js/2.530ed366.chunk.js",
+    "static/js/2.530ed366.chunk.js.map": "/react-test/static/js/2.530ed366.chunk.js.map",
+    "index.html": "/react-test/index.html",
+    "static/css/main.1331642f.chunk.css.map": "/react-test/static/css/main.1331642f.chunk.css.map",
+    "static/js/2.530ed366.chunk.js.LICENSE.txt": "/react-test/static/js/2.530ed366.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/react-test/static/media/HelveticaNeue-Medium.398c44a1.woff",
+    "static/media/Promo.55be47a1.png": "/react-test/static/media/Promo.55be47a1.png",
+    "static/media/Rings.da03cb20.svg": "/react-test/static/media/Rings.da03cb20.svg",
+    "static/media/brain_icon.cdbcb008.svg": "/react-test/static/media/brain_icon.cdbcb008.svg",
+    "static/media/file_icon.c65b8511.svg": "/react-test/static/media/file_icon.c65b8511.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47bbafa5.js",
+    "static/js/2.530ed366.chunk.js",
+    "static/css/main.1331642f.chunk.css",
+    "static/js/main.9e2e3c85.chunk.js"
+  ]
+}
